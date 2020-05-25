@@ -1,0 +1,4 @@
+.addNewWrapper {
+  display: flex;
+  flex-direction: row;
+}
